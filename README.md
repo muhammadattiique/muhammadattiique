@@ -23,19 +23,26 @@ Welcome to my professional portfolio! I am a **Computer Science Student** at **P
 - HTML5
 - CSS3
 - JavaScript
+- React js
+- React Native
+- Tailwind CSS
 
 ### Backend
 - PHP
 - Python
+- Java
+- Laravel
 
 ### Programming Languages
 - Python
 - C++
 - JavaScript
+- Java
 
 ### Database
 - MySQL
 - SQL
+- Postgre Sql
 
 ### Tools
 - Git
@@ -43,6 +50,8 @@ Welcome to my professional portfolio! I am a **Computer Science Student** at **P
 - VS Code
 - Android Studio
 - Cisco Packet Tracer
+- Intellij Idea
+- Docker
 
 ### Core Skills
 - Object-Oriented Programming (OOP)
@@ -50,6 +59,7 @@ Welcome to my professional portfolio! I am a **Computer Science Student** at **P
 - File Handling
 - Socket Programming
 - Web Development
+- App Development
 
 ---
 
