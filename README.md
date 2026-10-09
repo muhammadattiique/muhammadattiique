@@ -1,6 +1,6 @@
 # 🚀 Muhammad Attique - Professional Portfolio
 
-🌐 **Live Demo:** https://portfolioattique.netlify.app/
+🌐 **Live Demo:** https://personal-portfolio-3-d-rouge.vercel.app/
 
 Welcome to my professional portfolio! I am a **Computer Science Student** at **Pir Mehr Ali Shah Arid Agriculture University, Rawalpindi**, passionate about building modern web applications and software solutions. I enjoy developing projects using **Python, C++, JavaScript, PHP, and MySQL** while continuously learning **Software Engineering** and **Cybersecurity**.
 
